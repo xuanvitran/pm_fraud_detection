@@ -30,6 +30,10 @@ Vous incarnez une équipe Tech/Data (développeurs, data analysts, data engineer
 
 Concevoir le **cahier des charges data et technique** qui permettra de retrouver ces fraudeurs et d’installer un processus de détection de fraude durable.
 
+## 📥 Formulaire de rendu
+
+[https://xvt.notion.site/2c482fb2de5e808cae9cf86710905986?pvs=105](https://xvt.notion.site/2c482fb2de5e808cae9cf86710905986?pvs=105)
+
 ## 📦 Modalité de rendu
 
 - [ ] Cahier des charges fonctionnel - 1 document
